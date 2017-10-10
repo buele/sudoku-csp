@@ -23,7 +23,7 @@ git clone https://github.com/buele/sudoku-csp.git
 ```
 
 # How to run
-The run.py script accept an argument for the sudoku grid definition
+The run.py script accepts an argument for the sudoku grid definition.
 Sudoku grid sample:
 
 ```
@@ -47,9 +47,9 @@ That represents the following grid:
 |-----------------------------|
 ```
 
-Where the '*' chars means the empty cells.
+Where the '*' char means the empty cells.
 
-So to run the sudoku solver:
+So to run the sudoku csp solver:
 
 ```
 cd sudoku-csp
